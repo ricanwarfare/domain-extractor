@@ -166,3 +166,9 @@ cython_debug/
 
 # Local data files
 detected_domains.txt
+*.env
+*.pem
+*.key
+credentials.json
+rclone.conf
+TOOLS.md
